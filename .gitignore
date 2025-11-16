@@ -1,0 +1,25 @@
+# Key Pairs - Never commit private keys!
+*.pem
+*.ppk
+*.key
+
+# AWS Credentials
+*.credentials
+.aws/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE Files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Temporary Files
+*.tmp
+*.temp
