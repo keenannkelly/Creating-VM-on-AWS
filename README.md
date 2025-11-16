@@ -6,6 +6,16 @@ A hands-on project demonstrating the deployment and configuration of a Microsoft
 
 This project showcases the ability to provision and configure Windows Server infrastructure in AWS cloud environment, demonstrating practical cloud computing skills and Windows Server administration knowledge.
 
+## 🎥 Video Walkthrough
+
+Watch the complete deployment process:
+
+[![AWS EC2 Windows Server Deployment](https://cdn.loom.com/sessions/thumbnails/0160c5671e2c4e0083bdafea839316f2-with-play.gif)](https://www.loom.com/share/0160c5671e2c4e0083bdafea839316f2)
+
+**[▶️ Click here to watch the full video demonstration](https://www.loom.com/share/0160c5671e2c4e0083bdafea839316f2)**
+
+*This video demonstrates the complete EC2 instance creation process from start to finish.*
+
 ## 🏗️ Architecture
 
 **Cloud Provider**: Amazon Web Services (AWS)  
