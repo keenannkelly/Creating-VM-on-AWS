@@ -2,7 +2,7 @@
 
 # 🎯 Project Overview
 
-This project showcases the ability to provision an Amazon Machne Image Microsoft Windows Server 2025 in an AWS cloud environment, demonstrating practical cloud computing skills and administration knowledge.
+This project showcases the ability to provision an Amazon Machine Image Microsoft Windows Server 2025 in an AWS cloud environment, demonstrating practical cloud computing skills and administration knowledge.
 
 ## 🏗️ Architecture
 
